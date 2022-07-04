@@ -7,8 +7,6 @@
   -  https://BuscoTengo.com
   -  https://GoldenMonkeyss.com
 - 💞️ 𝐄𝐬𝐩𝐚𝐜𝐢𝐨 𝐜𝐫𝐞𝐚𝐝𝐨 𝐩𝐚𝐫𝐚 𝐀𝐩𝐨𝐫𝐭𝐚𝐫 𝐂𝐨𝐧𝐨𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨.
-- 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐚𝐦𝐞 𝐩𝐚𝐫𝐚 𝐂𝐨𝐧𝐭𝐫𝐚𝐭𝐚𝐜𝐢𝐨𝐧𝐞𝐬 𝐨 𝐒𝐨𝐩𝐨𝐫𝐭𝐞:
-  -  JeancarlosCarvajalAvila@gmail.com
 
 <!---
 JeancarlosCarvajal/JeancarlosCarvajal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
